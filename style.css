@@ -1,0 +1,40 @@
+.jumbotron {
+	padding-top: 6rem;
+	padding-bottom: 8rem;
+	background-image: url(img/background_jumbotron.jpg);
+	color: white;
+}
+
+section {
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+}
+
+#resume {
+	background-color: #E7E7DE;
+}
+
+.underline-title {
+    background: #008891;
+    height: 4px;
+    border-radius: 50px;
+	margin: -0.1rem 0.5rem auto;
+    width: 80px;
+}
+
+.underline-title-home {
+    background: #008891;
+    height: 4px;
+    border-radius: 50px;
+	margin: -0.1rem 0.5rem auto;
+    width: 80px;
+}
+
+.progress-bar {
+	background-color: #008891;
+}
+
+.btn-primary {
+	background-color: #008891;
+	border-color: #008891;
+}
