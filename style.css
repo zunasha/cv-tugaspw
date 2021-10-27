@@ -14,6 +14,8 @@ section {
 	background-color: #E7E7DE;
 }
 
+
+
 .underline-title {
     background: #008891;
     height: 4px;
@@ -37,4 +39,22 @@ section {
 .btn-primary {
 	background-color: #008891;
 	border-color: #008891;
+}
+
+.underline-header {
+    background: #008891;
+    height: 4px;
+    border-radius: 50px;
+    width: fluid;
+}
+
+.underline-cv {
+    background: #008891;
+    height: 4px;
+    width: 80px;
+}
+
+.after-head {
+	padding-top: 3rem;
+	padding-bottom: 1rem;
 }
