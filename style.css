@@ -11,7 +11,7 @@ section {
 }
 
 #resume {
-	background-color: #E7E7DE;
+	background-color: #EFECE7;
 }
 
 
@@ -57,4 +57,13 @@ section {
 .after-head {
 	padding-top: 3rem;
 	padding-bottom: 1rem;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100% 100%;
 }
