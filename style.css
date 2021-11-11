@@ -14,7 +14,27 @@ section {
 	background-color: #EFECE7;
 }
 
+.container-login{
+	position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
 
+.container-loginn{
+	  justify-content: center;
+	  align-items: center;
+	  display: flex;
+	  margin: 50px auto;
+}
+
+.card{
+      width: 350px;
+      height: auto;
+      border-radius: 15px;
+	  padding: 10px;
+	  background: #E7E7DE;
+}
 
 .underline-title {
     background: #008891;
